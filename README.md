@@ -4,8 +4,8 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/equalizer-landing-page-qeAtyPYjvy](https://www.frontendmentor.io/solutions/equalizer-landing-page-qeAtyPYjvy)
-- Live Site URL: [https://zauri-khutsishvili.github.io/equalizer-landing-page/](https://zauri-khutsishvili.github.io/equalizer-landing-page/)
+- Solution URL: [https://www.frontendmentor.io/solutions/typemaster-prelaunch-landing-page-b11TmbkykD](https://www.frontendmentor.io/solutions/typemaster-prelaunch-landing-page-b11TmbkykD)
+- Live Site URL: [https://zauri-khutsishvili.github.io/typemaster-pre-launch-landing-page/](https://zauri-khutsishvili.github.io/typemaster-pre-launch-landing-page/)
 
 ## Built with
 
